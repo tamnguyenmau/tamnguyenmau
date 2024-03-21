@@ -126,14 +126,12 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img alt="Candida's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tamnguyenmau&theme=radical&hide_border=false" height="192px"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tamnguyenmau&theme=radical&hide_border=false" height="192px"/>
 <br/>
 
 
 <br/>
-
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnguyenmau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="candida18" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnguyenmau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="candida18" height="192px"/>
   <br/>
   
   </p>
