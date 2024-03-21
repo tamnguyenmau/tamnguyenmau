@@ -56,7 +56,7 @@
     </a>
     &emsp;
     <a href="https://jquery.com/" target="_blank">
-        <img alt="Jquery" src="    https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=fff" />
+        <img alt="Jquery" src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=fff" />
     </a>
     &emsp;
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
@@ -82,15 +82,13 @@
 ### 👉Graphic Designing
 <p align="left">
     &emsp;
-
     <a href="https://www.figma.com/" target="_blank">
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff">
     </a>
     &emsp;
     <a href="https://photoshop.adobe.com/discover?promoid=55KD8MWH&mv=other" target="_blank">
         <img alt="Adobe Photoshop"
-            src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff
-            ">
+            src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff">
     </a>
 </p>
 
@@ -100,19 +98,16 @@
     &emsp;
     <a href="#"><img alt="Adobe"
             src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-
     &emsp;
     <a href="#"><img alt="Codepen"
             src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Stackblitz"
-            src="https://img.shields.io/badge/Stackblitz-1269D3?style=flat&logo=stackblitz&logoColor=fff
-            "></a>
+            src="https://img.shields.io/badge/Stackblitz-1269D3?style=flat&logo=stackblitz&logoColor=fff"></a>
     &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?logo=Github&logoColor=white"></a>
-
     &emsp;
     <a href="#"><img alt="Visual Studio Code"
             src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -126,7 +121,6 @@
 
 
 ## 📊 Github Stats (Expand to View) 
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
