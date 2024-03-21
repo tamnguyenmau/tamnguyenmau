@@ -41,10 +41,10 @@
     <a href="https://getbootstrap.com" target="_blank">
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
-    </a> &emsp;
+    </a> 
+	&emsp;
     <a href="https://tailwindcss.com/" target="_blank">
-        <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=fff
-    " />
+        <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=fff" />
     </a>
     &emsp;
     <a href="https://reactjs.org" target="_blank">
@@ -56,32 +56,27 @@
     </a>
     &emsp;
     <a href="https://jquery.com/" target="_blank">
-        <img alt="Jquery" src="    https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=fff
-        " />
+        <img alt="Jquery" src="    https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=fff" />
     </a>
     &emsp;
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
         <img alt="Dotnet" src="https://img.shields.io/badge/Dotnet-512BD4?style=flat&logo=dotnet&logoColor=fff" />
     </a>
     
-
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
     &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages"
-            src="https://img.shields.io/badge/Github%20Pages-181717?style=flat&logo=github&logoColor=fff
-            ">
+            src="https://img.shields.io/badge/Github%20Pages-181717?style=flat&logo=github&logoColor=fff">
     </a>
     &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img alt="sqlserver"
-            src="https://img.shields.io/badge/Sqlserver-CC2927?style=flat&logo=microsoftsqlserver&logoColor=fff
-            "></a>
+            src="https://img.shields.io/badge/Sqlserver-CC2927?style=flat&logo=microsoftsqlserver&logoColor=fff"></a>
     &emsp;
     <a href="https://www.postgresql.org/"><img alt="Postgresql"
-            src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=fff
-            "></a>
+            src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=fff"></a>
 </p>
 
 ### 👉Graphic Designing
