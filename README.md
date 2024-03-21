@@ -31,8 +31,7 @@
     &emsp;
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img alt="TypeScript"
-            src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff
-            ">
+            src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff">
     </a>
 </p>
 
